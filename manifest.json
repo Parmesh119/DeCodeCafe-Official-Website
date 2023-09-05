@@ -1,0 +1,13 @@
+{
+  "name": "DeCodeCafe Community",
+  "short_name": "DeCodeCafe Community",
+  "icons": [{
+    "src": "./_public/images/icons/logo.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#594641",
+  "theme_color": "#594641"
+}

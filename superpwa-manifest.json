@@ -1,0 +1,51 @@
+{
+     "name": "DeCodeCafe Community",
+     "short_name": "DeCodeCafe Community",
+     "description": "Learning in Public",
+     "icons": [
+          {
+               "src": "https://www.dropbox.com/scl/fi/2oufrpb4xca637l2mnb2n/logo.webp?rlkey=ib4optzqdx9glgx3vuep9rfib&dl=0",
+               "sizes": "192x192",
+               "type": "image\/png",
+               "purpose": "any"
+          },
+          {
+               "src": "https://www.dropbox.com/scl/fi/2oufrpb4xca637l2mnb2n/logo.webp?rlkey=ib4optzqdx9glgx3vuep9rfib&dl=0",
+               "sizes": "192x192",
+               "type": "image\/png",
+               "purpose": "maskable"
+          },
+          {
+               "src": "https://www.dropbox.com/scl/fi/2oufrpb4xca637l2mnb2n/logo.webp?rlkey=ib4optzqdx9glgx3vuep9rfib&dl=0",
+               "sizes": "512x512",
+               "type": "image\/png",
+               "purpose": "any"
+          },
+          {
+               "src": "https://www.dropbox.com/scl/fi/2oufrpb4xca637l2mnb2n/logo.webp?rlkey=ib4optzqdx9glgx3vuep9rfib&dl=0",
+               "sizes": "512x512",
+               "type": "image\/png",
+               "purpose": "maskable"
+          }
+     ],
+     "background_color": "#ffffff",
+     "theme_color": "#fabf67",
+     "display": "standalone",
+     "dir": "ltr",
+     "orientation": "portrait",
+     "start_url": ".",
+     "scope": "\/",
+     "shortcuts": [
+          {
+               "name": "DeCodeCafe Community",
+               "url": "\/",
+               "description": "Learning in Public",
+               "icons": [
+                    {
+                         "src": "https://www.dropbox.com/scl/fi/2oufrpb4xca637l2mnb2n/logo.webp?rlkey=ib4optzqdx9glgx3vuep9rfib&dl=0",
+                         "sizes": "192x192"
+                    }
+               ]
+          }
+     ]
+}
